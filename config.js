@@ -37,11 +37,11 @@ STICKER_NAME: process.env.STICKER_NAME || "KHAN-MD",
 // type sticker pack name 
 CUSTOM_REACT: process.env.CUSTOM_REACT || "false",
 // make this true for custum emoji react    
-CUSTOM_REACT_EMOJIS: process.env.CUSTOM_REACT_EMOJIS || "💝,💖,💗,❤️‍🩹,❤️,🧡,💛,💚,💙,💜,🤎,🖤,🤍",
+CUSTOM_REACT_EMOJIS: process.env.CUSTOM_REACT_EMOJIS || "💝,🫥,🙅🏽,🚫,🥹,🫠,🤪,🥰,🤐,🤬,😡,😤,😮‍💨",
 // chose custom react emojis by yourself 
 DELETE_LINKS: process.env.DELETE_LINKS || "false",
 // automatic delete links witho remove member 
-OWNER_NUMBER: process.env.OWNER_NUMBER || "92342758XXXX",
+OWNER_NUMBER: process.env.OWNER_NUMBER || "254717265431",
 // add your bot owner number
 OWNER_NAME: process.env.OWNER_NAME || "Jᴀᴡᴀᴅ TᴇᴄʜX",
 // add bot owner name
